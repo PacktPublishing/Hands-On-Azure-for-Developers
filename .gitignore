@@ -1,0 +1,6 @@
+ch1/.vs/
+ch1/packages/
+ch1/VisualStudioWebApplication/bin/
+ch1/VisualStudioWebApplication/obj/
+ch1/VisualStudioWebApplication/Properties/PublishProfiles/
+*.user
