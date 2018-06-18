@@ -4,3 +4,16 @@ ch1/VisualStudioWebApplication/bin/
 ch1/VisualStudioWebApplication/obj/
 ch1/VisualStudioWebApplication/Properties/PublishProfiles/
 *.user
+ch2/MyFirstWebJob/MyFirstWebJob/bin/
+ch2/MyFirstWebJob/MyFirstWebJob/obj/
+ch2/MyFirstWebJobFromVisualStudio/.vs/
+ch2/MyFirstWebJobFromVisualStudio/MyFirstWebJobFromVisualStudio/bin/
+ch2/MyFirstWebJobFromVisualStudio/MyFirstWebJobFromVisualStudio/obj/
+ch2/MyFirstWebJobFromVisualStudio/packages/
+ch2/MyFirstWebJobWebJobsSDK/.vs/
+ch2/MyFirstWebJobFromVisualStudio/MyFirstWebJobFromVisualStudio/Properties/PublishProfiles/
+ch2/MyFirstWebJobWebJobsSDK/MyFirstWebJobWebJobsSDK/bin/
+ch2/MyFirstWebJobWebJobsSDK/MyFirstWebJobWebJobsSDK/obj/
+ch2/MyFirstWebJobWebJobsSDK/MyFirstWebJobWebJobsSDK/Properties/
+ch2/MyFirstWebJobWebJobsSDK/packages/
+ch2/MyFirstWebJob/.vs/
