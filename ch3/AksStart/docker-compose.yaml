@@ -1,0 +1,16 @@
+version: '3'
+services:
+  handsonazurehello-back:
+    image: redis
+    container_name: handsonazurehello-back
+    ports:
+        - "6379:6379"
+
+  handsonazurehello:
+    build: ./
+    image: handsonazurehello
+    container_name: handsonazurehello
+    environment:
+      REDIS: handsonazurehello-back
+    ports:
+        - "8080:80"
