@@ -1,0 +1,4 @@
+
+Remove-ServiceFabricApplication fabric:/HandsOnAzureServiceFabricContainer 
+Unregister-ServiceFabricApplicationType HandsOnAzureServiceFabricContainerType 1.0.0
+Remove-ServiceFabricApplicationPackage HandsOnAzureServiceFabricContainer

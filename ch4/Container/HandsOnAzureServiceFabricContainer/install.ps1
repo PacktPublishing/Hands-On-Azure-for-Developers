@@ -1,0 +1,4 @@
+$AppPath = "$PSScriptRoot\HandsOnAzureServiceFabricContainer"
+Copy-ServiceFabricApplicationPackage -ApplicationPackagePath $AppPath -ApplicationPackagePathInImageStore HandsOnAzureServiceFabricContainer
+Register-ServiceFabricApplicationType HandsOnAzureServiceFabricContainer
+New-ServiceFabricApplication fabric:/HandsOnAzureServiceFabricContainer HandsOnAzureServiceFabricContainerType 1.0.0

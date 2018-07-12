@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationManifest  ApplicationTypeName="HandsOnAzureServiceFabricContainerType" ApplicationTypeVersion="1.0.0"
+                      xmlns="http://schemas.microsoft.com/2011/01/fabric" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   
+   <ServiceManifestImport>
+      <ServiceManifestRef ServiceManifestName="HandsOnServicePkg" ServiceManifestVersion="1.0.0" />
+        <Policies>
+            <ContainerHostPolicies CodePackageRef="Code">
+                <PortBinding ContainerPort="80" EndpointRef="HandsOnServiceEndpoint"/>
+				<RepositoryCredentials AccountName="handsonazureregistry.azurecr.io" Password="<password>" PasswordEncrypted="Bv7Ifagi0f=jUWsAEsduyJpxteKNNYjO"/>
+            </ContainerHostPolicies>
+        </Policies>
+   </ServiceManifestImport>
+   
+   <DefaultServices>
+      <Service Name="HandsOnService">
+         <StatelessService ServiceTypeName="HandsOnServiceType" InstanceCount="1">
+            <SingletonPartition />
+         </StatelessService>
+      </Service>
+   </DefaultServices>
+   
+</ApplicationManifest>
