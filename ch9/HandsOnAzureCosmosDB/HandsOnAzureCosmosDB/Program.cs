@@ -8,7 +8,7 @@ namespace HandsOnAzureCosmosDB
     {
         private static void Main()
         {
-            var connectionString = "DefaultEndpointsProtocol=https;AccountName=handsonazure;AccountKey=JcgOQ1A4PbZ3ScHeZ5LPhKKszdwZabFksvU2xJyJQUgD2ZpTzTFpt4b8rJ6jPFr5JLZnInbnBx6S3c6OZkLXdw==;TableEndpoint=https://handsonazure.table.cosmosdb.azure.com:443/;";
+            var connectionString = "DefaultEndpointsProtocol=https;AccountName=handsonazure;AccountKey=<key>;TableEndpoint=https://handsonazure.table.cosmosdb.azure.com:443/;";
             var storageAccount = CloudStorageAccount.Parse(connectionString);
             var tableClient = storageAccount.CreateCloudTableClient();
 
