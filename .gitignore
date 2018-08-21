@@ -45,3 +45,17 @@ ch6/HandsOnAzureApp/HandsOnAzureApp/bin/
 ch6/HandsOnAzureApp/HandsOnAzureApp/obj/
 ch7/HandsOnAzure.Function/.vs/
 ch6/HandsOnAzureApp/.vs/
+ch11/AzureStorage/.vs/
+ch11/AzureStorage/BlobStorage/bin/
+ch11/AzureStorage/BlobStorage/obj/
+ch11/AzureStorage/packages/
+ch11/AzureStorage/QueueStorage.Consumer/obj/
+ch11/AzureStorage/QueueStorage/bin/
+ch11/AzureStorage/QueueStorage/obj/
+ch11/AzureStorage/TableStorage/obj/
+ch11/AzureStorage/TableStorage/bin/
+ch9/HandsOnAzureCosmosDB/HandsOnAzureCosmosDB/bin/
+ch9/HandsOnAzureCosmosDB/HandsOnAzureCosmosDB/obj/
+ch9/HandsOnAzureCosmosDB/packages/
+ch9/HandsOnAzureCosmosDB/.vs/
+ch11/AzureStorage/QueueStorage.Consumer/bin/
