@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnAzure.Sender", "HandsOnAzure.Sender\HandsOnAzure.Sender.csproj", "{B9820694-0C3A-402E-8AB3-F1F9DF6227C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnAzure.Receiver", "HandsOnAzure.Receiver\HandsOnAzure.Receiver.csproj", "{2202E217-1800-45FA-A809-97353846324B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9820694-0C3A-402E-8AB3-F1F9DF6227C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9820694-0C3A-402E-8AB3-F1F9DF6227C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9820694-0C3A-402E-8AB3-F1F9DF6227C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9820694-0C3A-402E-8AB3-F1F9DF6227C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2202E217-1800-45FA-A809-97353846324B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2202E217-1800-45FA-A809-97353846324B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2202E217-1800-45FA-A809-97353846324B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2202E217-1800-45FA-A809-97353846324B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E9EE31-C4C4-46BE-8069-262B8CC95DCC}
+	EndGlobalSection
+EndGlobal

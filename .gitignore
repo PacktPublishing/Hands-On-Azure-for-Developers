@@ -59,3 +59,9 @@ ch9/HandsOnAzureCosmosDB/HandsOnAzureCosmosDB/obj/
 ch9/HandsOnAzureCosmosDB/packages/
 ch9/HandsOnAzureCosmosDB/.vs/
 ch11/AzureStorage/QueueStorage.Consumer/bin/
+ch12/HandsOnAzure.EventHub/.vs/
+ch12/HandsOnAzure.EventHub/HandsOnAzure.Receiver/bin/
+ch12/HandsOnAzure.EventHub/HandsOnAzure.Receiver/obj/
+ch12/HandsOnAzure.EventHub/HandsOnAzure.Sender/bin/
+ch12/HandsOnAzure.EventHub/HandsOnAzure.Sender/obj/
+ch12/HandsOnAzure.EventHub/packages/
