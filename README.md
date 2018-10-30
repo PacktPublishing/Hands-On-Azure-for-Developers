@@ -1,2 +1,2 @@
 # Hands-On-Azure-for-Developers
-Published by Packt
+Published by, Packt
