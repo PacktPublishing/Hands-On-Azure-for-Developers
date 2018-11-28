@@ -65,3 +65,14 @@ ch12/HandsOnAzure.EventHub/HandsOnAzure.Receiver/obj/
 ch12/HandsOnAzure.EventHub/HandsOnAzure.Sender/bin/
 ch12/HandsOnAzure.EventHub/HandsOnAzure.Sender/obj/
 ch12/HandsOnAzure.EventHub/packages/
+ch1/PHP/.vscode/settings.json
+ch14/HandsOnAzure.ServiceBus.Reader/bin/
+ch14/HandsOnAzure.ServiceBus.Reader/obj/
+ch14/HandsOnAzure.ServiceBus/.vs/
+ch14/HandsOnAzure.ServiceBus/bin/
+ch14/HandsOnAzure.ServiceBus/obj/
+ch14/HandsOnAzure.ServiceBus/packages/
+ch15/NodeJS/node_modules/
+ch20/.vs/
+ch20/HandsOnAzureTrafficManager/bin/
+ch20/HandsOnAzureTrafficManager/obj/
