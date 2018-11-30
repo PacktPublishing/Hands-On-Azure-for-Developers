@@ -4,18 +4,18 @@
 
 This is the code repository for [Hands-On Azure for Developers](https://www.packtpub.com/virtualization-and-cloud/hands-azure-developers?utm_source=github&utm_medium=repository&utm_campaign=9781789340624 ), published by Packt.
 
-****
+**Implement rich Azure PaaS ecosystems using containers, serverless services, and storage solutions**
 
 ## What is this book about?
 Microsoft Azure is one of the fastest growing public cloud service providers in the market currently, and also holds the second highest market share after AWS. Azure has a sophisticated set of services which will help you build fault-tolerant and scalable cloud-based applications.
 
 This book covers the following exciting features:
-Implement serverless components such as Azure functions and logic apps 
-Integrate applications with available storages and containers 
-Understand messaging components including event hub and Azure storage queue 
-Gain an understanding of application insights and other proper monitoring solutions 
-Store your data with services such as Azure SQL and Azure Data Lake Store 
-Develop fast and scalable cloud applications 
+* Implement serverless components such as Azure functions and logic apps 
+* Integrate applications with available storages and containers 
+* Understand messaging components including event hub and Azure storage queue 
+* Gain an understanding of application insights and other proper monitoring solutions 
+* Store your data with services such as Azure SQL and Azure Data Lake Store 
+* Develop fast and scalable cloud applications 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789340624) today!
 
@@ -45,13 +45,6 @@ With the following software and hardware list you can run all code files present
 | 1 to 20 | Microsoft Visual Studio 2017 | Windows, Mac OS X, and Linux (Any) |
 | 1 to 20 | Visual Studio Code | Windows, Mac OS X, and Linux (Any) |
 | 9,11 | Microsoft Azure Storage Explorer | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789340624_ColorImages.pdf).
 
@@ -60,36 +53,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Implementing Azure Solutions - Second Edition [[Packt]](https://www.packtpub.com/virtualization-and-cloud/implementing-azure-solutions-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789343045 ) [[Amazon]](https://www.amazon.com/dp/1789343046)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Kamil Mrzyglód**
 is a skilled software developer, architect, and Microsoft Azure MVP. He is focused on delivering fast, reliable, and flexible cloud solutions based on the Microsoft Azure platform. He has spoken at multiple conferences and meetups, working on open source software (OSS) projects and driving workshops for different people and companies. Over recent years, he has developed an interest in Azure serverless architectures, data analysis, and big data components. Currently, he works at Demant Technology Center in Warsaw. His current goal is to make the world of cloud computing as accessible as it can be so that it's possible to lower the learning curve of this technology and help others start using it.
-
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
